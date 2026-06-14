@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://elektrik-odessa.pp.ua/sitemap.xml
